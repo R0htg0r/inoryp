@@ -1,0 +1,6 @@
+{
+    "inoryp_ip": "IP",
+    "inoryp_codigo": "Codigo",
+    "inoryp_sessao": "Sessão",
+    "inoryp_erro_proxy": "Você precisa informar qual método deseja utilizar: http, https, socks4 ou socks5socks4 ou socks5"
+}
